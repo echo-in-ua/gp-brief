@@ -1,0 +1,15 @@
+.DS_STORE
+
+# Logs
+front/object-shooting/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+front/object-shooting/build
+
+# Dependency directories
+front/object-shooting/node_modules/
+
